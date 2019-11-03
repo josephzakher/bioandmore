@@ -1,0 +1,11 @@
+body{
+    background-image: url("test.jpg");
+    background-color: #cccccc;
+}
+
+div{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    padding: 350px;
+    color: white;
+}
